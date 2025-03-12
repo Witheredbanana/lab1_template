@@ -1,0 +1,51 @@
+body {
+    font-size: 1.25rem;
+}
+
+.avatar {
+    max-width: 100%;
+}
+
+/* Стили для страницы поста */
+.post-container {
+    margin-bottom: 30px;
+}
+
+.post-meta {
+    color: #6c757d;
+    font-size: 0.9rem;
+}
+
+.post-meta .author {
+    margin-right: 15px;
+}
+
+.post-content {
+    line-height: 1.8;
+    text-align: justify;
+}
+
+/* Стили для комментариев */
+.comments-section {
+    margin-top: 50px;
+    border-top: 1px solid #dee2e6;
+    padding-top: 30px;
+}
+
+.media {
+    border-bottom: 1px solid #f8f9fa;
+    padding-bottom: 20px;
+}
+
+.media-body h5 {
+    font-weight: 600;
+}
+
+.replies {
+    border-left: 3px solid #dee2e6;
+    padding-left: 15px;
+}
+
+footer {
+    margin-top: auto;
+}
